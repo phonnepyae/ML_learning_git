@@ -1,0 +1,7 @@
+/ML_learning_git
+/pipenv_test
+Pipfile
+Pipfile.lock
+requirements.txt
+.vscode
+test_notebook.ipynb
